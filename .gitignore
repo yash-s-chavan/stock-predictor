@@ -1,0 +1,10 @@
+# Environments
+venv/
+.idea/
+
+# Model Weights
+*.keras
+*.h5
+
+# Python Cache
+__pycache__/
